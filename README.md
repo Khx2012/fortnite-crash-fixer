@@ -10,17 +10,17 @@ Fix Fortnite crashes quickly using a lightweight system utility tool.
 https://github.com/khx2012/fortnite-crash-fixer/releases/latest
 
 ---
-
 ## 📸 Screenshots
 
 ### Main Interface
-/images/main_ui.png
+![Main UI](images/main_ui.png)
 
 ### System Analysis
-/images/analysis.png
+![Analysis](images/analysis.png)
 
 ### System Information
-/images/system_info.png
+![System Info](images/system_info.png)
+
 ---
 
 ## ⚡ Features
