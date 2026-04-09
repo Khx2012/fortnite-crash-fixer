@@ -16,7 +16,7 @@ https://github.com/khx2012/fortnite-crash-fixer/releases/latest
 ![Main UI](images/main_ui.png)
 
 ### System Analysis
-![Analysis](images/analysis.png)
+![Analysis](https://via.placeholder.com/800x400)
 
 ### System Information
 ![System Info](images/system_info.png)
