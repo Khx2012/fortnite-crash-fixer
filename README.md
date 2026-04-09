@@ -7,7 +7,7 @@ Fix Fortnite crashes quickly using a lightweight system utility tool.
 ## 🚀 Download
 
 👉 Go to Releases:  
-https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest
+https://github.com/khx2012/fortnite-crash-fixer/releases/latest
 
 ---
 
