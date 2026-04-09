@@ -19,7 +19,7 @@ https://github.com/khx2012/fortnite-crash-fixer/releases/latest
 ![Analysis](/images/analysis.png)
 
 ### System Information
-![System Info](/images/system_info.png)
+![System info](/images/system_info.png)
 
 ---
 
