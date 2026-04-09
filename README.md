@@ -14,14 +14,13 @@ https://github.com/khx2012/fortnite-crash-fixer/releases/latest
 ## 📸 Screenshots
 
 ### Main Interface
-![Main UI](main_ui.png)
+/images/main_ui.png
 
 ### System Analysis
-![Analysis](analysis.png)
+/images/analysis.png
 
 ### System Information
-![System Info](system_info.png)
-
+/images/system_info.png
 ---
 
 ## ⚡ Features
