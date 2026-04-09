@@ -1,22 +1,36 @@
 # 🎮 Fortnite Crash Fixer
 
-A lightweight utility tool designed to help diagnose and fix common Fortnite crashes.
-
----
-
-## ⚡ Features
-
-* 🔍 System analysis (RAM, disk, Fortnite install check)
-* ⚡ Quick Fix (clears shader cache & launcher cache)
-* 🔧 Manual shader cache clearing
-* 💾 Virtual memory guidance
-* 💻 System information viewer
+Fix Fortnite crashes quickly using a lightweight system utility tool.
 
 ---
 
 ## 🚀 Download
 
-👉 [Download Latest Version](../../releases/latest)
+👉 Go to Releases:  
+https://github.com/YOUR-USERNAME/YOUR-REPO/releases/latest
+
+---
+
+## 📸 Screenshots
+
+### Main Interface
+![Main UI](main_ui.png)
+
+### System Analysis
+![Analysis](analysis.png)
+
+### System Information
+![System Info](system_info.png)
+
+---
+
+## ⚡ Features
+
+- 🔍 Analyze system performance
+- ⚡ Quick Fix (recommended)
+- 🧹 Clear Fortnite shader cache
+- 💾 Optimize virtual memory
+- 💻 View system information
 
 ---
 
@@ -24,39 +38,43 @@ A lightweight utility tool designed to help diagnose and fix common Fortnite cra
 
 This tool helps fix common Fortnite issues such as:
 
-* Crashes caused by corrupted shader cache
-* Low memory issues
-* Launcher-related problems
+- Game crashes on launch
+- Shader cache corruption
+- Low memory performance issues
+- Launcher-related errors
+
+---
+
+## 📦 Installation
+
+1. Download from Releases
+2. Run `Fortnite Crash Fixer.exe`
+3. Click "Analyze System"
+4. Apply Quick Fix if needed
 
 ---
 
 ## ⚠️ Important Notes
 
-* This tool modifies local cache files
-* Always restart your PC after applying fixes
-* Make sure Fortnite is closed before running fixes
+- Always close Fortnite before using fixes
+- Some actions may require restart
+- This tool does not modify Fortnite files directly
 
 ---
 
 ## 🧠 Disclaimer
 
-This is an independent project and is not affiliated with Epic Games.
+This project is not affiliated with Epic Games.
 
 ---
 
-## 📦 Version
+## 🔗 Project Info
 
-**v1.0 — Initial Release**
+- Version: 1.0
+- Platform: Windows 10,11
+- Language: Python
+
 ---
 
-## 📸 Screenshots
-
-### 🖥️ Main Interface
-![Main UI](main_ui.png)
-
-### 🔍 System Analysis
-![Analysis](analysis.png)
-
-### 💻 System Information
-![System Info](system_info.png)
+⭐ If this helped you, consider starring the repo!
 
