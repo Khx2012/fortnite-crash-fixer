@@ -15,15 +15,17 @@ https://github.com/khx2012/fortnite-crash-fixer/releases/latest
 
 ### Main interface
 
-![Main UI](images/main_ui.png)
+<img width="995" height="912" alt="main ui v1 3" src="https://github.com/user-attachments/assets/af4d8e52-9ebc-4c03-acb2-ad2346fc3c8c" />
+
 
 ### System Analysis Tool
 
-![Analysis](images/analysis.png)
+<img width="1920" height="1078" alt="analysis v1 3" src="https://github.com/user-attachments/assets/98b2beff-6811-4b93-ac09-6f02a42c8a7b" />
 
-### System Information Viewer
 
-![System Info](images/system_info.png)
+### Settings
+
+<img width="1153" height="590" alt="settings v1 3" src="https://github.com/user-attachments/assets/51fc370c-e313-4654-b242-abda1d4da94a" />
 
 ---
 
@@ -59,7 +61,7 @@ https://github.com/khx2012/fortnite-crash-fixer/releases/latest
 
 ## 💻 System Requirements
 
-* Windows 10 / 11
+* Windows 8.1/10/ 11
 * Fortnite installed
 * 4GB+ RAM recommended
 
@@ -95,7 +97,7 @@ This project is not affiliated with Epic Games.
 
 ## 🔗 Project Info
 
-* Version: 1.0
+* Version: 1.3
 * Platform: Windows
 * Language: Python
 
