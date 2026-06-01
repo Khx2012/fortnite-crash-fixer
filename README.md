@@ -97,7 +97,7 @@ This project is not affiliated with Epic Games.
 
 ## 🔗 Project Info
 
-* Version: 1.3
+* Version: 1.7
 * Platform: Windows
 * Language: Python
 
