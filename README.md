@@ -23,7 +23,7 @@ https://github.com/khx2012/fortnite-crash-fixer/releases/latest
 
 ### Settings
 
-<img width="1920" height="1080" alt="main ui v1 8" src="https://github.com/user-attachments/assets/9bea2866-0fdd-4f5b-87fa-8c25407870db" />
+<img width="1920" height="1080" alt="main ui v1 5" src="https://github.com/user-attachments/assets/9bea2866-0fdd-4f5b-87fa-8c25407870db" />
 
 ### Quick Fix
 
