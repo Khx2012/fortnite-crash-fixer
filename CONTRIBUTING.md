@@ -48,12 +48,12 @@ Keep PRs focused and small — it makes reviewing easier.
 ```bash
 git clone https://github.com/Khx2012/fortnite-crash-fixer.git
 cd fortnite-crash-fixer
-python fortnite_fixer.py
+python fortnite_fixer.py (could be a diffrent name depending on version)
 ```
 ### Building the exe locally 
 if you don't want to use the exe in releases you could build the exe from your device usin the following command:
 ```bash
-python -m PyInstaller --onefile --windowed fortnite_fixer
+python -m PyInstaller --onefile --windowed fortnite_fixer.py
 ```
 ### Questions
 Open a disscussion or ping me on GitHub
