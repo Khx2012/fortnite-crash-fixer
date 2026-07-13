@@ -115,6 +115,7 @@ Analyzes Fortnite crash logs and attempts to identify:
 * GPU problems
 * Shader corruption
 * Configuration errors
+* EAC faliure
 
 Provides recommendations based on detected patterns.
 
@@ -289,17 +290,28 @@ Added:
 
 ---
 
+### v2.0
+
+**Major Update**
+
+Added:
+
+* Full EAC kernel driver wipe and renistall
+* Live FPS monitor
+* Detailed System Analysis
+* GPU updating via installing and launching DDU
+
 ## 💻 System Requirements
 
 ### Minimum
 
 * Windows 10 or Windows 11
-* 4 GB RAM
+* 8 GB RAM
 * Fortnite installed
 
 ### Recommended
 
-* 8 GB RAM or more
+* 12 GB RAM or more
 * SSD
 * Latest GPU drivers
 
