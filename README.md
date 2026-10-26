@@ -15,11 +15,11 @@ https://github.com/khx2012/fortnite-crash-fixer/releases/latest
 
 ### Main interface
 
-<img width="1920" height="1080" alt="main ui v1 8" src="https://github.com/user-attachments/assets/f5151605-715c-47fa-a2c1-e4c359dbdcdd" />
+<img width="1920" height="1080" alt="main UI 2 0" src="https://github.com/user-attachments/assets/75565436-b7a7-4676-b937-e96645245014" />
 
 ### System Analysis Tool
 
-<img width="1920" height="1080" alt="analysis v1 8" src="https://github.com/user-attachments/assets/9edecf25-bd83-432b-94d4-dc132d672893" />
+<img width="1920" height="1080" alt="system analysis" src="https://github.com/user-attachments/assets/b8462907-a9ec-492c-9f3f-2133cd37dcd3" />
 
 ### Settings
 
